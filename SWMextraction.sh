@@ -1,3 +1,7 @@
+# These scripts are adapted from the original code used in the study and have been modified for public release.
+# They may depend on specific aspects of the developer’s computing environment; users should verify compatibility before running.
+# For inquiries regarding the code or its usage, please contact Yoshito Saito (yoshitos@student.unimelb.edu.au).
+
 # Directory settings
 home= # home directory
 csv_file="${home}/output.csv"
